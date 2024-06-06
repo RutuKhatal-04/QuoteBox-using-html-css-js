@@ -1,6 +1,7 @@
 # Quote Generator
 
 This is a simple web application that generates random quotes. It allows users to select different categories of quotes, such as inspirational, motivational, life, love, friendship, wisdom, success, philosophical, leadership, and patriotic. Users can view quotes from a specific category or get a random quote from any category.
+You can visit the website here https://quotebox-generator.netlify.app
 
 ## Features
 
