@@ -1,0 +1,410 @@
+{
+  "inspirational": [
+    {
+      "quote": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    {
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    { "quote": "If you can dream it, you can do it.", "author": "Walt Disney" },
+    {
+      "quote": "Act as if what you do makes a difference. It does.",
+      "author": "William James"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "You are never too old to set another goal or to dream a new dream.",
+      "author": "C.S. Lewis"
+    }
+  ],
+  "motivational": [
+    {
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "quote": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "quote": "The harder the battle, the sweeter the victory.",
+      "author": "Les Brown"
+    },
+    {
+      "quote": "Believe in yourself and all that you are.",
+      "author": "Christian D. Larson"
+    },
+    {
+      "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "quote": "Don't stop when you're tired. Stop when you're done.",
+      "author": "Unknown"
+    },
+    {
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "quote": "Start where you are. Use what you have. Do what you can.",
+      "author": "Arthur Ashe"
+    },
+    {
+      "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis"
+    }
+  ],
+  "life": [
+    {
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon"
+    },
+    {
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "quote": "Life is short, and it's up to you to make it sweet.",
+      "author": "Sarah Louise Delany"
+    },
+    {
+      "quote": "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+      "author": "Mark Twain"
+    },
+    {
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "quote": "Life itself is the most wonderful fairy tale.",
+      "author": "Hans Christian Andersen"
+    },
+    {
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "quote": "Life is a succession of lessons which must be lived to be understood.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "quote": "Your time is limited, so don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    }
+  ],
+  "love": [
+    {
+      "quote": "Love takes off masks that we fear we cannot live without and know we cannot live within.",
+      "author": "James Baldwin"
+    },
+    {
+      "quote": "Love yourself first and everything else falls into line.",
+      "author": "Lucille Ball"
+    },
+    {
+      "quote": "The best thing to hold onto in life is each other.",
+      "author": "Audrey Hepburn"
+    },
+    {
+      "quote": "The giving of love is an education in itself.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "quote": "We are most alive when we're in love.",
+      "author": "John Updike"
+    },
+    {
+      "quote": "The love we give away is the only love we keep.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "quote": "Love is not only something you feel, it is something you do.",
+      "author": "David Wilkerson"
+    },
+    {
+      "quote": "The greatest thing you'll ever learn is to love and be loved in return.",
+      "author": "Natalie Cole"
+    },
+    {
+      "quote": "To love and be loved is to feel the sun from both sides.",
+      "author": "David Viscott"
+    },
+    {
+      "quote": "Love is composed of a single soul inhabiting two bodies.",
+      "author": "Aristotle"
+    }
+  ],
+  "friendship": [
+    {
+      "quote": "A real friend is one who walks in when the rest of the world walks out.",
+      "author": "Walter Winchell"
+    },
+    {
+      "quote": "Friendship is the only cement that will ever hold the world together.",
+      "author": "Woodrow Wilson"
+    },
+    {
+      "quote": "A friend is someone who knows all about you and still loves you.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "quote": "The greatest gift of life is friendship, and I have received it.",
+      "author": "Hubert H. Humphrey"
+    },
+    {
+      "quote": "A single rose can be my garden… a single friend, my world.",
+      "author": "Leo Buscaglia"
+    },
+    {
+      "quote": "Friendship is born at that moment when one person says to another, ‘What! You too? I thought I was the only one.’",
+      "author": "C.S. Lewis"
+    },
+    {
+      "quote": "True friendship comes when the silence between two people is comfortable.",
+      "author": "David Tyson"
+    },
+    {
+      "quote": "There is nothing on this earth more to be prized than true friendship.",
+      "author": "Thomas Aquinas"
+    },
+    {
+      "quote": "A friend is what the heart needs all the time.",
+      "author": "Henry Van Dyke"
+    },
+    {
+      "quote": "Friends are the siblings God never gave us.",
+      "author": "Mencius"
+    }
+  ],
+  "wisdom": [
+    {
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "In the end, it is not the years in your life that count. It’s the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "quote": "Wise men speak because they have something to say; fools because they have to say something.",
+      "author": "Plato"
+    },
+    {
+      "quote": "The only thing more expensive than education is ignorance.",
+      "author": "Benjamin Franklin"
+    },
+    { "quote": "Turn your wounds into wisdom.", "author": "Oprah Winfrey" },
+    {
+      "quote": "Knowing yourself is the beginning of all wisdom.",
+      "author": "Aristotle"
+    },
+    {
+      "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+      "author": "Albert Einstein"
+    },
+    {
+      "quote": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "author": "Seneca"
+    }
+  ],
+  "success": [
+    {
+      "quote": "Success is not the key to happiness. Happiness is the key to success.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "quote": "Success usually comes to those who are too busy to be looking for it.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "quote": "Don't be distracted by criticism. Remember—the only taste of success some people get is to take a bite out of you.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+      "author": "Roy T. Bennett"
+    },
+    {
+      "quote": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    {
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+      "author": "Conrad Hilton"
+    },
+    {
+      "quote": "Success is how high you bounce when you hit bottom.",
+      "author": "George S. Patton"
+    },
+    {
+      "quote": "Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph.",
+      "author": "Zig Ziglar"
+    }
+  ],
+  "philosophical": [
+    {
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "quote": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche"
+    },
+    {
+      "quote": "That which does not kill us makes us stronger.",
+      "author": "Friedrich Nietzsche"
+    },
+    { "quote": "I think, therefore I am.", "author": "René Descartes" },
+    {
+      "quote": "Happiness is not an ideal of reason, but of imagination.",
+      "author": "Immanuel Kant"
+    },
+    {
+      "quote": "The mind is furnished with ideas by experience alone.",
+      "author": "John Locke"
+    },
+    { "quote": "To be is to be perceived.", "author": "George Berkeley" },
+    {
+      "quote": "The greatest happiness of the greatest number is the foundation of morals and legislation.",
+      "author": "Jeremy Bentham"
+    },
+    {
+      "quote": "Life must be understood backward. But it must be lived forward.",
+      "author": "Søren Kierkegaard"
+    }
+  ],
+  "leadership": [
+    {
+      "quote": "The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.",
+      "author": "Ronald Reagan"
+    },
+    {
+      "quote": "The function of leadership is to produce more leaders, not more followers.",
+      "author": "Ralph Nader"
+    },
+    {
+      "quote": "Leadership is the capacity to translate vision into reality.",
+      "author": "Warren Bennis"
+    },
+    {
+      "quote": "The task of the leader is to get their people from where they are to where they have not been.",
+      "author": "Henry Kissinger"
+    },
+    {
+      "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+      "author": "John C. Maxwell"
+    },
+    {
+      "quote": "Leadership is not about being in charge. It is about taking care of those in your charge.",
+      "author": "Simon Sinek"
+    },
+    {
+      "quote": "To handle yourself, use your head; to handle others, use your heart.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "quote": "The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "quote": "Leadership is not about titles, positions or flowcharts. It is about one life influencing another.",
+      "author": "John C. Maxwell"
+    },
+    {
+      "quote": "A good leader leads the people from above them. A great leader leads the people from within them.",
+      "author": "M.D. Arnold"
+    }
+  ],
+  "patriotic": [
+    {
+      "quote": "Patriotism is supporting your country all the time, and your government when it deserves it.",
+      "author": "Mark Twain"
+    },
+    {
+      "quote": "Ask not what your country can do for you—ask what you can do for your country.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "quote": "My fellow Americans, ask not what your country can do for you, ask what you can do for your country.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "quote": "Patriotism is not short, frenzied outbursts of emotion, but the tranquil and steady dedication of a lifetime.",
+      "author": "Adlai Stevenson II"
+    },
+    {
+      "quote": "In the face of impossible odds, people who love this country can change it.",
+      "author": "Barack Obama"
+    },
+    {
+      "quote": "The patriot's blood is the seed of freedom's tree.",
+      "author": "Thomas Campbell"
+    },
+    {
+      "quote": "This nation will remain the land of the free only so long as it is the home of the brave.",
+      "author": "Elmer Davis"
+    },
+    {
+      "quote": "Freedom is never more than one generation away from extinction. We didn't pass it to our children in the bloodstream. It must be fought for, protected, and handed on for them to do the same.",
+      "author": "Ronald Reagan"
+    },
+    {
+      "quote": "America is hope. It is compassion. It is excellence. It is valor.",
+      "author": "Paul Tsongas"
+    }
+  ]
+}
