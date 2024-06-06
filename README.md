@@ -22,4 +22,4 @@ To run the quote generator locally, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the index.html file in your web browser.
-3. Select a category or click the "Random Quote" button to generate a random quote.
+3. Select a category and quotes will be displayed.
